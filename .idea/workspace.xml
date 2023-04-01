@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa169615-edf4-40ee-8256-dedfefc231cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleBot.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa169615-edf4-40ee-8256-dedfefc231cb" name="Changes" comment="created demo telegram chat bot" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,11 +72,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680378014710</updated>
-      <workItem from="1680378015826" duration="9308000" />
+      <workItem from="1680378015826" duration="9644000" />
     </task>
+    <task id="LOCAL-00001" summary="created demo telegram chat bot">
+      <created>1680387782511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680387782511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created demo telegram chat bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="created demo telegram chat bot" />
   </component>
 </project>
